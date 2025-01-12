@@ -187,7 +187,6 @@ CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
 凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 佛山公共,http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
 甘肃卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.10:11111
-更多节目等你发现
 广电民生,http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111
 广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.158:11111
 广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
