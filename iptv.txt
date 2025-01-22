@@ -115,7 +115,8 @@ CETV2,https://www.freetv.top/migu/923287211.m3u8?migutoken=9207f41b5bf979372e223
 CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=cf5240f1bceceb804d739b874b9a4ada2cb2128eee2db3f51ad12d6c8d00592b38eb96288db5746b2e4d97a0d66c4d7f109ffd1b3f0834264529122480a8c3ca49365efdbf984271276a1180d7
 嘉佳卡通,https://www.freetv.top/migu/614952364.m3u8?migutoken=a8dcbb4d23b5f991479d7b189fb2c771c47aa5155ab55d83fc5bd6280443832c4f7412b62172296342a69e78d0902dc890192773df68e36dbe3901c25b93c7da0e6f2e41f5db61572842bf9030
 江苏移动,#genre#
-CCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-HD-265-5M&aceCCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
+CCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-HD-265-5M&ace
+CCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
 CCTV2,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-2-HD-265-8M&ace
 CCTV3,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-3-HD-265-8M&ace
 CCTV3,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-3-AVS-4K264&ace
