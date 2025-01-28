@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="https://epg.112114.xyz,http://epg.51zmt.top:8000/cc.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="CCTV1" group-title="IPV6•4K",CCTV1 4K 「IPV6」•支持回看
+http://124.128.25.149:8888/udp/239.253.242.77:8000
+#EXTINF:-1 tvg-name="CCTV1" group-title="IPV6•央视",CCTV1「IPV6」
+http://a.limingzi.com:8888/udp/239.253.246.1:8000
+
