@@ -83,3 +83,22 @@ CCTV15,http://a.limingzi.com:8888/udp/239.253.246.16:8000
 山东新闻,http://a.limingzi.com:8888/udp/239.253.246.23:8000
 山东农科,http://a.limingzi.com:8888/udp/239.253.246.24:8000
 山东少儿,http://a.limingzi.com:8888/udp/239.253.246.25:8000
+辽宁有线,#genre#
+CCTV1 HD,http://tvh.990066.xyz/stream/channelid/267738118?profile=pass
+CCTV2 HD,http://tvh.990066.xyz/stream/channelid/1667775686?profile=pass
+CCTV3 HD,http://tvh.990066.xyz/stream/channelid/239163808?profile=pass
+CCTV4 HD,http://tvh.990066.xyz/stream/channelid/56105852?profile=pass
+CCTV5 HD,http://tvh.990066.xyz/stream/channelid/1808923791?profile=pass
+CCTV5+ HD,http://tvh.990066.xyz/stream/channelid/1779187567?profile=pass
+CCTV6 HD,http://tvh.990066.xyz/stream/channelid/891747302?profile=pass
+CCTV7,http://tvh.990066.xyz/stream/channelid/2071561975?profile=pass
+CCTV8 HD,http://tvh.990066.xyz/stream/channelid/234758648?profile=pass
+CCTV9 HD,http://tvh.990066.xyz/stream/channelid/284019033?profile=pass
+CCTV10 HD,http://tvh.990066.xyz/stream/channelid/1309916585?profile=pass
+CCTV11 HD,http://tvh.990066.xyz/stream/channelid/26802648?profile=pass
+CCTV12 HD,http://tvh.990066.xyz/stream/channelid/1998196602?profile=pass
+CCTV13 HD,http://tvh.990066.xyz/stream/channelid/881958927?profile=pass
+CCTV14 HD,http://tvh.990066.xyz/stream/channelid/1711109433?profile=pass
+CCTV15 HD,http://tvh.990066.xyz/stream/channelid/1475130820?profile=pass
+CCTV16 HD,http://tvh.990066.xyz/stream/channelid/868562136?profile=pass
+CCTV17 HD,http://tvh.990066.xyz/stream/channelid/1639304119?profile=pass
